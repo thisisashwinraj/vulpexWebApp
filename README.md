@@ -16,7 +16,7 @@ Folders that are necessary for the functioning of web app are as mentioned below
   This folder consists the backend files of the web app. This stores and manipulates the data.
 
 - [Frontend](https://github.com/ashwinraj-in/Vulpex-WebApp/tree/master/Frontend):
-  It consists of file used to develop graphical interface through the uses of HTML and Javascript.
+  It consists of file used to develop graphical interface through the use of HTML, CSS and Javascript.
  
 - [Data](https://github.com/ashwinraj-in/Vulpex-WebApp/tree/master/Data): It contains the data used for building the machine learning model for target prediction.
 
