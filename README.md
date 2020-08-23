@@ -1,4 +1,4 @@
-# Vulpex-WebApp
+# Vulpex WebApp
 
 Vulpex is a web application deployed over Heroku that uses Machine Learning model to predict sales of Video Games. Python Flask is used to create the backend APIs. Netlify is used to host the web app online. CatBoost Regression is used for making predictions.
 
