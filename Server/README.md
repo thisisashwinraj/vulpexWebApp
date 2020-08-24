@@ -11,7 +11,7 @@ Heroku apps include a Procfile that specifies the commands that are executed by 
 This file contains the API for the web application. To run the file use the command ```python3 app.py```. This will start the server on 5000 port. The API can be tested in the Postman client by sending a POST API call. 
 
 ### Finalized Model:
-This file contains the code for our prediction model. The regression model uses CatBosst to make predictions for sales. A major beneit of using catboost regression is that it can work on categorical features directly without having to label encode the categorical features.
+This file contains the code for our prediction model. The regression model uses CatBoost to make predictions for sales. A major beneit of using catboost regression is that it can work on categorical features directly without having to label encode the categorical features.
 
 The RMSE for the model is 1.5. The model can be improved further by using ensemble learning techniques.
 
