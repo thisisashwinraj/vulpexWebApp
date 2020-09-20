@@ -5,7 +5,7 @@ This folder contains the server side (backend) scripts for the sales prediction 
 
 ### Procfile:
 
-Heroku apps include a Procfile that specifies the commands that are executed by the app on startup. Procfile can be usedd to declare a variety of process types, including: the app's web server, multiple types of worker processes and even a singleton process, such as a clock.
+Heroku apps include a Procfile that specifies the commands that are executed by the app on startup. Procfile can be used to declare a variety of process types, including: the app's web server, multiple types of worker processes and even a singleton process, such as a clock.
 
 ### App.py
 This file contains the API for the web application. To run the file use the command ```python3 app.py```. This will start the server on 5000 port. The API can be tested in the Postman client by sending a POST API call. 
