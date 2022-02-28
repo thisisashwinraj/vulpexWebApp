@@ -1,6 +1,6 @@
 # Vulpex WebApp
 
-Vulpex is a web application deployed over Heroku that uses Machine Learning model to predict sales of Video Games. Python Flask is used to create the backend APIs. Netlify is used to host the web app online. 
+Vulpex is a web application deployed over Heroku that uses Machine Learning model to predict sales of Video Games. Python Flask is used to create the backend APIs. [Netlify](https://www.netlify.com/) is used to host the web app online. 
 
 The project was started in 2020 and is distributed under the [MIT license](https://github.com/ashwinraj-in/vulpexWebApp/blob/master/LICENSE) and is maintained by [Ashwin Raj](https://github.com/ashwinraj-in)
 
